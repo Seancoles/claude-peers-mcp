@@ -3,6 +3,14 @@
     "claude-peers": {
       "command": "bun",
       "args": ["./server.ts"]
+    },
+    "pulsehunt": {
+      "command": "bun",
+      "args": ["/Users/seancoles/mcp-data-provider/src/server.ts"]
+    },
+    "memory": {
+      "command": "bun",
+      "args": ["/Users/seancoles/memory-mcp/server.ts"]
     }
   }
 }
